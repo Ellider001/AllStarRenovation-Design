@@ -1,0 +1,40 @@
+/* Theme Description
+-------------------------------------------------
+El lider licence
+*/
+
+// Defult
+	@import 'variables';
+	@import 'mixins';
+	@import 'overlay';
+	@import 'common';
+	@import 'color';
+
+
+// Homepage1
+	@import 'headerMenu';
+	@import 'h1-hero';
+	@import 'services_section';
+	@import 'support-company';
+	@import 'countDown';
+	@import 'team';
+
+	@import 'david-droga';
+	@import 'project-area';
+	@import 'contact-with-area';
+
+	@import 'testimonial';
+	@import 'blog';
+	@import 'footer';
+
+// inner Page
+	@import 'services';
+	@import 'details_page';
+
+
+// Deful Element Page
+	@import 'blog_page';
+	@import 'contact';
+	@import 'bradcam';
+	@import 'extend';
+	@import 'elements';
